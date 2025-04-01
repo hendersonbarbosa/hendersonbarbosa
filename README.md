@@ -1,6 +1,6 @@
 ## OLÁ eu sou o Henderson Barbosa 
 
-- 🔭 Hoje trabalhando como Analista de suporte em campo
+- 🔭 Hoje trabalhando como Analista de Suporte em campo
 - 🌱 Estou aprendendo front-end, back-end e banco de dados na faculdade
 - 🤔 Procuro meu primeiro emprego na area de programador/desenvolvedor e afins
 - 📫 Email: hendersonbm01@gmail.com
